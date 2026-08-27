@@ -12,7 +12,7 @@ In addition to the standard Fashion MNIST training data, the project
 
 investigates the use of image augmentation to create a substantially
 
-larger training set from the original training samples. The final model
+larger training set from the original training samples. The final CNN model
 
 is also evaluated on manually prepared real-world clothing images,
 
@@ -1110,9 +1110,9 @@ For example, one training run reached approximately:
 
 ``` text
 
-Training accuracy:   ~98%
+Training accuracy:   ~94%
 
-Validation accuracy: ~96%
+Validation accuracy: ~89%
 
 ```
 
@@ -1130,17 +1130,13 @@ The project therefore experimented with techniques such as:
 
 augmentation.
 
--   Applying dropout.
-
 -   Monitoring validation performance.
 
 -   Comparing training and validation curves.
 
--   Adjusting the model architecture.
+-   Comparing the MLP baseline with the final CNN architecture.
 
-The final architecture contains five hidden dense layers and dropout
-
-after each hidden layer.
+The **MLP is the baseline model**, while the **CNN is the final model** used for the main evaluation and external prediction experiments.
 
 ------------------------------------------------------------------------
 
@@ -1174,41 +1170,26 @@ This provides a more complete picture of the model's behavior.
 
 # 21. Accuracy and Loss Curves
 
-The training history can be visualized using accuracy and loss curves.
+The following figure shows the training and validation accuracy and
+loss across epochs for the final CNN model. These curves help assess
+convergence, generalization, and the difference between training and
+validation performance.
 
-### Accuracy Curve
 
-The accuracy curve compares the model's performance on training and
 
-validation data over successive epochs.
-
-This helps determine whether the model is continuing to generalize as
-
-training progresses.
-
-### Loss Curve
-
-The loss curve shows how the prediction error changes over time.
-
-A typical overfitting pattern can occur when:
-
-``` text
-
-Training loss     ↓ continues decreasing
-
-Validation loss   ↓ initially decreases
-
-              ↑ later begins increasing
-
-```
-
-This indicates that the model continues to fit the training data while
-
-its generalization performance begins to deteriorate.
+Figure: Training and validation accuracy/loss curves for the final CNN model.
 
 ------------------------------------------------------------------------
 
 # 22. Confusion Matrix
+
+The confusion matrix below summarizes the classification results of the
+final CNN model across the ten Fashion MNIST classes. It highlights the
+classes that are most frequently confused with one another.
+
+
+
+Figure: Confusion matrix of the final CNN model.
 
 A confusion matrix provides a class-by-class breakdown of the model's
 
@@ -1456,7 +1437,7 @@ Adding more layers and neurons increases the model's representational
 
 capacity, but it can also increase the risk of overfitting.
 
-The final model therefore uses dropout extensively.
+The final CNN model does not use dropout layers; instead, it relies on convolutional feature extraction and the training-time augmentation pipeline described in Sections 12 and 13. Dropout was used in the MLP baseline.
 
 ### 28.4 Data Augmentation Provides Additional Variation
 
@@ -1489,6 +1470,17 @@ replace systematic test-set evaluation.
 ------------------------------------------------------------------------
 
 # 29. Limitations
+
+## 29.1 Final CNN Architecture
+
+The **final model is a Convolutional Neural Network (CNN)**. Its
+convolutional layers preserve and exploit the spatial structure of the
+28 × 28 input images, allowing the network to learn local features such as
+edges, shapes, textures, and clothing patterns.
+
+The **MLP serves as the baseline model** for comparison. Unlike
+the final CNN, the MLP flattens each image into a 784-element vector and
+does not explicitly model local spatial relationships.
 
 ## 29.2 Synthetic Augmentation
 
@@ -1543,6 +1535,7 @@ real-world classification performance.
 The following improvements could be explored in future work:
 
 
+-   Compare SGD with **Adam** and other optimizers.
 
 -   Perform systematic hyperparameter tuning.
 
@@ -1552,9 +1545,9 @@ The following improvements could be explored in future work:
 
 -   Investigate early stopping.
 
--   Experiment with different dropout rates.
+-   Compare additional CNN regularization strategies such as dropout, batch normalization, and weight decay.
 
--   Compare different augmentation techniques.
+-   Compare different augmentation techniques for the final CNN.
 
 -   Perform more extensive external-image testing.
 
@@ -1618,9 +1611,9 @@ Then:
 
 7.  Construct `modelTwo`.
 
-8.  Compile the model.
+8.  Compile the final CNN model.
 
-9.  Train the model.
+9.  Train the final CNN model.
 
 10. Monitor training and validation performance.
 
@@ -1742,23 +1735,21 @@ objective was to increase training diversity while preserving the
 
 identity and fundamental structure of the original clothing examples.
 
-The final MLP contains five hidden dense layers with 400, 300, 300, 200,
+The **MLP baseline** contains five hidden dense layers with 400, 300,
+300, 200, and 200 neurons respectively. ReLU activations are used in its
+hidden layers, while a ten-neuron Softmax layer performs classification.
+Dropout with a rate of 0.45 was applied to the MLP baseline as a
+regularization mechanism.
 
-and 200 neurons respectively. ReLU activations are used in the hidden
+The **final CNN model** instead uses three 128-filter convolutional
+layers, two 2 × 2 max-pooling layers, Flatten, a 128-neuron ReLU dense
+layer, and a ten-neuron Softmax output layer. The final CNN also includes
+Keras augmentation layers for random rotation, translation, and zoom during
+training.
 
-layers, while a ten-neuron Softmax layer performs the final
-
-classification. Dropout with a rate of 0.45 is applied after each hidden
-
-layer as a regularization mechanism to reduce overfitting.
-
-The project also investigates the difference between training and
-
-validation performance, demonstrating the practical importance of
-
-monitoring generalization rather than relying solely on training
-
-accuracy.
+The project investigates the difference between training and validation
+performance, demonstrating the practical importance of monitoring
+generalization rather than relying solely on training accuracy.
 
 Finally, the trained model was evaluated not only on Fashion MNIST data
 
@@ -1778,7 +1769,6 @@ and augmentation to model training, evaluation, model persistence, and
 
 external inference.
 
-
 ------------------------------------------------------------------------
 
 # 34. Author
@@ -1790,7 +1780,6 @@ Department of Computer Science and Engineering\
 East Delta University
 
 ------------------------------------------------------------------------
-
 
 # 35. Repository
 
