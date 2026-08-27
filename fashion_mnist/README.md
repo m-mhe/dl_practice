@@ -1110,9 +1110,9 @@ For example, one training run reached approximately:
 
 ``` text
 
-Training accuracy:   ~94%
+Training accuracy:   ~98%
 
-Validation accuracy: ~89%
+Validation accuracy: ~96%
 
 ```
 
