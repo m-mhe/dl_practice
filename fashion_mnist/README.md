@@ -1,4 +1,4 @@
-# Fashion MNIST Image Classification Using a Multilayer Perceptron
+# Fashion MNIST Image Classification Using CNN
 
 A deep-learning project for classifying clothing and footwear images
 using the **Fashion MNIST** dataset and a fully connected **Multilayer
