@@ -1490,22 +1490,6 @@ replace systematic test-set evaluation.
 
 # 29. Limitations
 
-## 29.1 MLP Architecture
-
-The model is a fully connected network rather than a CNN.
-
-Flattening a 28 × 28 image into 784 independent input features means the
-
-architecture does not explicitly exploit the spatial relationships
-
-between neighboring pixels.
-
-CNNs are generally better suited to image data because convolutional
-
-layers can learn spatially local features such as edges, shapes, and
-
-textures.
-
 ## 29.2 Synthetic Augmentation
 
 The augmented images are derived from existing training samples.
@@ -1559,7 +1543,6 @@ real-world classification performance.
 The following improvements could be explored in future work:
 
 
--   Compare SGD with **Adam** and other optimizers.
 
 -   Perform systematic hyperparameter tuning.
 
@@ -1795,6 +1778,7 @@ and augmentation to model training, evaluation, model persistence, and
 
 external inference.
 
+
 ------------------------------------------------------------------------
 
 # 34. Author
@@ -1806,6 +1790,7 @@ Department of Computer Science and Engineering\
 East Delta University
 
 ------------------------------------------------------------------------
+
 
 # 35. Repository
 
