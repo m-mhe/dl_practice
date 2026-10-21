@@ -39,42 +39,23 @@ def tokenizer(text):
 # --------------------------------------------------
 
 class QuizModel(nn.Module):
-    def __init__(
-        self,
-        vocabSize,
-        embeddingSize=64,
-        hiddenNeurons=128
-    ):
+    def __init__(self, vocabSize, embeddingSize = 64, hiddenNeurons = 128):
         super().__init__()
-
-        self.embed = nn.Embedding(
-            num_embeddings=vocabSize,
-            embedding_dim=embeddingSize
-        )
-
-        self.rnn = nn.RNN(
-            input_size=embeddingSize,
-            hidden_size=hiddenNeurons,
-            batch_first=True
-        )
-
+        self.embed = nn.Embedding(num_embeddings= vocabSize, embedding_dim= embeddingSize)
+        self.rnn = nn.RNN(input_size = embeddingSize, hidden_size = hiddenNeurons, batch_first= True)
         self.net = nn.Sequential(
-            nn.Linear(hiddenNeurons, hiddenNeurons),
+            nn.Linear(in_features= hiddenNeurons, out_features= hiddenNeurons),
             nn.ReLU(),
-            nn.Dropout(0.4),
 
-            nn.Linear(hiddenNeurons, hiddenNeurons),
-            nn.ReLU(),
-            nn.Dropout(0.4),
+            nn.Dropout(0.3),
 
-            nn.Linear(hiddenNeurons, vocabSize)
+            nn.Linear(in_features= hiddenNeurons, out_features= vocabSize)
         )
-
+    
     def forward(self, X):
         X = self.embed(X)
-        _, hidden = self.rnn(X)
-
-        return self.net(hidden.squeeze(0))
+        _, X = self.rnn(X)
+        return self.net(X.squeeze(0))
 
 
 # --------------------------------------------------
