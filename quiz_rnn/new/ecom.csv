@@ -1,0 +1,1001 @@
+﻿question,answer
+Which term describes a general rise in prices across an economy?,Inflation
+Which term describes a general fall in prices across an economy?,Deflation
+Which term describes a slowdown in the rate at which prices are rising?,Disinflation
+Which term describes a period of high inflation and weak economic growth?,Stagflation
+Which term describes an extremely fast and very high rise in prices?,Hyperinflation
+Which term describes the total market value of final goods and services made inside a country?,GDP
+"Which term describes the total income earned by a country's residents, including income from abroad?",GNI
+Which term describes the value of goods and services produced by a country's residents anywhere in the world?,GNP
+Which term describes GDP adjusted to remove the effect of price changes?,RealGDP
+Which term describes GDP measured using current market prices?,NominalGDP
+Which term describes a price measure covering the goods and services counted in GDP?,GDPDeflator
+Which term describes a country's GDP divided by its population?,GDPPerCapita
+Which term describes GDP after subtracting the loss in value of capital goods?,NDP
+Which term describes an index that tracks average price changes paid by consumers?,CPI
+Which term describes an index that tracks average price changes received by producers?,PPI
+Which term describes inflation measured without food and energy prices?,CoreInflation
+Which term describes inflation measured with all items in the consumer basket?,HeadlineInflation
+Which term describes the condition of not having a job while actively seeking work?,Unemployment
+Which term describes the share of the labor force that is unemployed?,UnemploymentRate
+Which term describes the share of working-age people who have jobs?,EmploymentRate
+Which term describes the share of working-age people who work or seek work?,ParticipationRate
+Which term describes people who are working or actively looking for work?,LaborForce
+Which term describes the amount of output produced from a given amount of input?,Productivity
+Which term describes the amount of output produced by a worker in a given time?,LaborProductivity
+Which term describes an increase in the amount of goods and services an economy produces?,EconomicGrowth
+Which term describes a period of falling economic activity?,Recession
+Which term describes a very deep and long-lasting economic downturn?,Depression
+Which term describes a period when economic activity is growing?,Expansion
+Which term describes a period when economic activity is shrinking?,Contraction
+Which term describes the period when an economy starts growing again after a downturn?,Recovery
+Which term describes the repeated pattern of economic growth and slowdown?,BusinessCycle
+Which term describes the highest point of an economic cycle before a downturn?,Peak
+Which term describes the lowest point of an economic cycle before recovery?,Trough
+Which term describes the difference between actual output and potential output?,OutputGap
+Which term describes the level of output an economy can sustain over time?,PotentialGDP
+Which term describes the total planned spending on goods and services in an economy?,AggregateDemand
+Which term describes the total goods and services firms are willing to produce?,AggregateSupply
+Which term describes a sudden change in total spending in an economy?,DemandShock
+Which term describes a sudden event that changes production costs or available goods?,SupplyShock
+Which term describes the total income earned from producing goods and services in a country?,NationalIncome
+Which term describes income a household has left after taxes and transfers?,DisposableIncome
+Which term describes income before taxes and other deductions?,GrossIncome
+Which term describes income left after taxes and deductions?,NetIncome
+Which term describes income adjusted for changes in prices?,RealIncome
+Which term describes income measured in current money without price adjustment?,NominalIncome
+Which term describes the share of people living below a chosen poverty line?,PovertyRate
+Which term describes a measure of how unevenly income is shared?,GiniCoefficient
+Which term describes a difference in income or wealth between people?,Inequality
+Which term describes the amount of goods and services money can buy?,PurchasingPower
+Which term describes a way to compare what money can buy in different countries?,PPP
+Which term describes the amount of money needed for basic goods and services?,CostOfLiving
+Which term describes the average level of prices in an economy?,PriceLevel
+Which term describes the amount buyers are willing and able to buy at a given price?,Demand
+Which term describes the amount sellers are willing and able to sell at a given price?,Supply
+Which term describes the point where quantity supplied equals quantity demanded?,Equilibrium
+Which term describes a situation where buyers want more than sellers offer?,Shortage
+Which term describes a situation where sellers offer more than buyers want?,Surplus
+Which term describes the fact that resources are limited compared with people's wants?,Scarcity
+Which term describes the value of the next best choice given up?,OpportunityCost
+Which term describes the extra benefit from consuming one more unit?,MarginalUtility
+Which term describes the extra cost of producing one more unit?,MarginalCost
+Which term describes the extra money earned from selling one more unit?,MarginalRevenue
+Which term describes how strongly one amount responds when another amount changes?,Elasticity
+Which term describes a product people usually buy more of when their income rises?,NormalGood
+Which term describes a product people usually buy less of when their income rises?,InferiorGood
+Which term describes a product that can be used instead of another product?,Substitute
+Which term describes a product that is often used together with another product?,Complement
+Which term describes a legal maximum price set by the government?,PriceCeiling
+Which term describes a legal minimum price set by the government?,PriceFloor
+Which term describes government support that lowers costs or encourages an activity?,Subsidy
+Which term describes money collected by the government from people or businesses?,Tax
+Which term describes a tax whose rate rises as taxable income rises?,ProgressiveTax
+Which term describes a tax that takes a larger share of income from lower earners?,RegressiveTax
+Which term describes a tax that applies the same rate to taxable income?,FlatTax
+Which term describes a tax charged on money people earn?,IncomeTax
+Which term describes a tax charged on company profits?,CorporateTax
+Which term describes a tax charged on the value of property?,PropertyTax
+Which term describes a tax on profit made from selling an asset?,CapitalGainsTax
+Which term describes a tax charged when goods or services are sold?,SalesTax
+Which term describes a tax charged on value added during production and sale?,VAT
+Which term describes a tax charged on certain products such as fuel or tobacco?,Excise
+Which term describes a tax on goods brought into a country?,Tariff
+Which term describes a legal limit on the amount of a product that may be imported?,Quota
+Which term describes a complete ban on trade with a country?,Embargo
+Which term describes a restriction used to pressure a country or organization?,Sanction
+Which term describes a cost or benefit of an activity that affects other people?,Externality
+Which term describes a good that people cannot easily be stopped from using?,PublicGood
+Which term describes a shared resource that can be used up by people?,CommonResource
+Which term describes a situation where a market does not use resources efficiently?,MarketFailure
+Which term describes a situation where sellers try to attract the same buyers?,Competition
+Which term describes a market with only one seller?,Monopoly
+Which term describes a market controlled by a small number of large sellers?,Oligopoly
+Which term describes a group of businesses that agree to limit competition?,Cartel
+Which term describes a person who starts and runs a business?,Entrepreneur
+Which term describes focusing on making a smaller range of goods or services?,Specialization
+Which term describes the ability to make something at a lower opportunity cost?,ComparativeAdvantage
+Which term describes the ability to make more with the same resources?,AbsoluteAdvantage
+Which term describes the study of choices made by people and businesses?,Microeconomics
+Which term describes the study of the economy as a whole?,Macroeconomics
+Which term describes the study of how people use limited resources?,Economics
+Which term describes government choices about taxes and public spending?,FiscalPolicy
+Which term describes central bank actions that affect money and interest rates?,MonetaryPolicy
+Which term describes a policy that aims to increase spending and economic activity?,ExpansionaryPolicy
+Which term describes a policy that aims to slow spending and reduce inflation pressure?,ContractionaryPolicy
+Which term describes a plan for expected income and spending?,Budget
+Which term describes a situation where government spending is higher than revenue?,BudgetDeficit
+Which term describes a situation where government revenue is higher than spending?,BudgetSurplus
+Which term describes the total amount of money a government owes?,PublicDebt
+Which term describes a comparison of government debt with the size of the economy?,DebtToGDP
+Which term describes a policy of cutting public spending or raising taxes to reduce a deficit?,Austerity
+Which term describes a government payment made without receiving a good or service in return?,TransferPayment
+"Which term describes money the government spends on goods, services, and support?",PublicSpending
+"Which term describes public systems such as roads, bridges, ports, and power networks?",Infrastructure
+Which term describes the cost of borrowing money or the income from lending it?,Interest
+Which term describes the percentage charged for borrowing or paid for saving?,InterestRate
+Which term describes the main interest rate set by a central bank?,PolicyRate
+Which term describes an interest rate after adjusting for inflation?,RealRate
+Which term describes an interest rate before adjusting for inflation?,NominalRate
+Which term describes interest calculated on the original money and earlier interest?,CompoundInterest
+Which term describes interest calculated only on the original amount?,SimpleInterest
+Which term describes earning interest on interest already added to savings?,Compounding
+Which term describes the original amount of a loan or investment?,Principal
+Which term describes how easily an asset can be turned into cash?,Liquidity
+Which term describes the ability to pay debts over the long term?,Solvency
+Which term describes using borrowed money to fund an investment or business?,Leverage
+Which term describes the total amount of money available in an economy?,MoneySupply
+Which term describes money created by a central bank?,BaseMoney
+Which term describes a measure of money that includes cash and checking deposits?,M1
+Which term describes a broader measure that includes M1 and some savings deposits?,M2
+Which term describes the share of certain deposits banks must keep in reserve?,ReserveRequirement
+Which term describes central bank purchases or sales of government securities?,OpenMarketOperations
+Which term describes central bank purchases of assets to add money to the financial system?,QuantitativeEasing
+Which term describes a central bank reduction in its asset holdings?,QuantitativeTightening
+Which term describes a central bank message about its likely future policy?,ForwardGuidance
+Which term describes a chart showing interest rates for bonds with different maturities?,YieldCurve
+Which term describes a yield curve where longer-term rates are below shorter-term rates?,InvertedCurve
+Which term describes the rate banks charge each other for short-term loans?,InterbankRate
+Which term describes a short-term loan backed by securities and later reversed?,Repo
+Which term describes the process by which bank lending creates deposits?,CreditCreation
+Which term describes a measure linking the monetary base to the wider money supply?,MoneyMultiplier
+Which term describes a public institution that manages money and monetary policy?,CentralBank
+Which term describes a bank that takes deposits and gives loans to customers?,CommercialBank
+Which term describes a bank that helps companies raise money and arrange financial deals?,InvestmentBank
+Which term describes money placed into a bank account?,Deposit
+Which term describes money taken out of a bank account?,Withdrawal
+Which term describes money kept for future use instead of being spent?,Savings
+Which term describes a bank account used mainly for everyday payments?,Checking
+Which term describes spending more money from an account than its available balance?,Overdraft
+"Which term describes a bank deposit kept for a set period, often at a fixed rate?",CertificateOfDeposit
+Which term describes short-term debt issued by a large company?,CommercialPaper
+Which term describes a short-term debt security issued by a government?,TreasuryBill
+Which term describes a medium-term government debt security in the United States?,TreasuryNote
+Which term describes a long-term government debt security in the United States?,TreasuryBond
+Which term describes a loan used to buy a home or other property?,Mortgage
+Which term describes property promised to a lender if a loan is not repaid?,Collateral
+Which term describes a loan backed by an asset pledged to the lender?,SecuredLoan
+Which term describes a loan that is not backed by a specific asset?,UnsecuredLoan
+Which term describes the repayment of a loan through planned payments over time?,Amortization
+Which term describes failure to make a required debt payment?,Default
+Which term describes a legal process for dealing with debts that cannot be paid?,Bankruptcy
+Which term describes a number lenders use to assess a person's borrowing risk?,CreditScore
+Which term describes a record of past borrowing and repayment?,CreditHistory
+Which term describes the maximum amount a lender allows a customer to borrow?,CreditLimit
+Which term describes the yearly cost of borrowing shown as a percentage?,APR
+Which term describes the yearly return on savings including compounding?,APY
+Which term describes money saved for unexpected costs?,EmergencyFund
+Which term describes the value of what a person owns minus what they owe?,NetWorth
+Which term describes the share of income that a person saves?,SavingsRate
+Which term describes planning how income will be spent and saved?,Budgeting
+Which term describes a contract that protects against certain financial losses?,Insurance
+Which term describes the regular amount paid for insurance cover?,Premium
+Which term describes the amount a person pays before insurance covers a claim?,Deductible
+Which term describes the person chosen to receive money from an insurance policy?,Beneficiary
+Which term describes regular income paid to a person after retirement?,Pension
+Which term describes a financial product that pays regular amounts over time?,Annuity
+Which term describes the stage of life after leaving regular work?,Retirement
+Which term describes spreading investments across different assets?,Diversification
+Which term describes the full collection of investments owned by an investor?,Portfolio
+Which term describes something valuable owned by a person or business?,Asset
+Which term describes money or another obligation that is owed?,Liability
+Which term describes the value left for owners after liabilities are subtracted?,Equity
+Which term describes money or assets used to run or grow a business?,Capital
+Which term describes money earned from selling goods or services?,Revenue
+Which term describes money spent to run a business or household?,Expense
+Which term describes money left when revenue is greater than costs?,Profit
+Which term describes a negative result when costs are greater than revenue?,Loss
+Which term describes money moving into and out of a person or business?,CashFlow
+Which term describes a statement showing what a business owns and owes?,BalanceSheet
+"Which term describes a report showing a business's revenue, expenses, and profit?",IncomeStatement
+Which term describes a report showing cash received and cash paid?,CashFlowStatement
+Which term describes a cost that stays the same when output changes?,FixedCost
+Which term describes a cost that changes when the amount produced changes?,VariableCost
+Which term describes the point where total revenue equals total costs?,BreakEven
+Which term describes goods kept by a business for sale or production?,Inventory
+Which term describes money customers still owe a business?,Receivables
+Which term describes money a business still owes suppliers?,Payables
+Which term describes the loss in value of a physical asset over time?,Depreciation
+Which term describes the spreading of an intangible asset's cost over time?,AmortizationExpense
+Which term describes sales revenue minus the direct cost of goods sold?,GrossProfit
+Which term describes profit left after all expenses and taxes?,NetProfit
+Which term describes gross profit shown as a share of sales?,GrossMargin
+Which term describes net profit shown as a share of sales?,NetMargin
+Which term describes earnings before interest and taxes?,EBIT
+"Which term describes earnings before interest, taxes, depreciation, and amortization?",EBITDA
+Which term describes cash left after operating needs and capital spending?,FreeCashFlow
+Which term describes money spent to buy long-lasting business assets?,Capex
+Which term describes regular costs of running a business?,Opex
+Which term describes the average cost of a company's different sources of funding?,WACC
+Which term describes the value today of future cash flows minus the initial cost?,NPV
+Which term describes the discount rate that makes a project's net present value zero?,IRR
+Which term describes the time needed to recover the first cost of an investment?,PaybackPeriod
+Which term describes the market value of all a company's listed shares?,MarketCapitalization
+Which term describes a share price compared with the company's earnings per share?,PERatio
+Which term describes a company's profit divided by its number of shares?,EPS
+Which term describes a payment a company makes to its shareholders?,Dividend
+Which term describes company profit kept in the business instead of paid out?,RetainedEarnings
+Which term describes a share of ownership in a company?,Stock
+Which term describes a loan made by an investor to a company or government?,Bond
+Which term describes the regular interest payment made by a bond?,Coupon
+Which term describes the date when a bond or loan must be repaid?,Maturity
+Which term describes the income from an investment compared with its price?,Yield
+Which term describes the return expected if a bond is held until it matures?,YTM
+Which term describes a measure of how sensitive a bond is to interest-rate changes?,Duration
+Which term describes the extra yield on a risky bond over a safer bond?,CreditSpread
+Which term describes a bond with a low credit rating and higher risk?,JunkBond
+Which term describes a bond that can be changed into company shares?,ConvertibleBond
+Which term describes a bond sold below face value with no regular interest payments?,ZeroCouponBond
+Which term describes a bond issued by a national government?,SovereignBond
+Which term describes a bond issued by a company?,CorporateBond
+Which term describes a financial contract whose value depends on another asset?,Derivative
+Which term describes an exchange-traded contract for buying or selling later at an agreed price?,Future
+Which term describes a private agreement to trade an asset later at an agreed price?,Forward
+Which term describes a contract that gives the right but not the duty to buy or sell an asset?,Option
+Which term describes an option giving the right to buy an asset?,CallOption
+Which term describes an option giving the right to sell an asset?,PutOption
+Which term describes a contract to exchange cash flows between two parties?,Swap
+Which term describes a fund that trades on a stock exchange like a share?,ETF
+Which term describes a pool of money invested for many people?,MutualFund
+Which term describes a fund designed to follow a market index?,IndexFund
+Which term describes a company or fund that owns or finances income-producing real estate?,REIT
+Which term describes the market where currencies are bought and sold?,Forex
+Which term describes the market where company shares are traded?,StockMarket
+Which term describes the market where debt securities are traded?,BondMarket
+Which term describes the market for short-term borrowing and lending?,MoneyMarket
+Which term describes the market for long-term finance and investment?,CapitalMarket
+"Which term describes the market for raw materials such as oil, wheat, and gold?",CommodityMarket
+Which term describes the market where new securities are first sold?,PrimaryMarket
+Which term describes the market where existing securities are traded?,SecondaryMarket
+Which term describes the first public sale of a company's shares?,IPO
+Which term describes a person or company that carries out trades for clients?,Broker
+Which term describes a place or system where financial assets are traded?,Exchange
+Which term describes the price a buyer offers for an asset?,Bid
+Which term describes the price a seller wants for an asset?,Ask
+Which term describes the difference between a buying price and a selling price?,Spread
+Which term describes the amount of an asset traded during a period?,Volume
+Which term describes how much an asset's price moves over time?,Volatility
+Which term describes a market measure used to compare investment performance?,Benchmark
+Which term describes a measure of how much an investment moves compared with the market?,Beta
+Which term describes investment return above a chosen benchmark after adjustment?,Alpha
+Which term describes the chance that an investment will lose value or not meet its goal?,Risk
+Which term describes the gain or loss from an investment?,Return
+Which term describes profit made by selling an asset for more than its cost?,CapitalGain
+Which term describes loss made by selling an asset for less than its cost?,CapitalLoss
+Which term describes selling a borrowed asset in the hope its price will fall?,ShortSelling
+Which term describes money borrowed from a broker to buy investments?,Margin
+Which term describes an instruction to trade immediately at the best available price?,MarketOrder
+Which term describes an instruction to trade only at a chosen price or better?,LimitOrder
+Which term describes an order designed to limit a loss if a price falls?,StopLoss
+Which term describes a fee paid to a broker for carrying out a trade?,Commission
+Which term describes buying and selling in different markets to profit from a price gap?,Arbitrage
+Which term describes using an investment or trade to reduce another risk?,Hedging
+Which term describes a period when share prices are generally rising?,BullMarket
+Which term describes a period when share prices are generally falling?,BearMarket
+Which term describes a rapid rise in asset prices beyond levels supported by fundamentals?,Bubble
+Which term describes a sudden and large fall in market prices?,Crash
+Which term describes a firm that regularly quotes buying and selling prices?,MarketMaker
+Which term describes the risk that a borrower will not repay a loan?,CreditRisk
+Which term describes the risk that an asset cannot be sold quickly at a fair price?,LiquidityRisk
+Which term describes the risk of loss because market prices change?,MarketRisk
+Which term describes the risk that exchange-rate changes cause a loss?,CurrencyRisk
+Which term describes the risk that the other party in a deal will not meet its promise?,CounterpartyRisk
+Which term describes the extra return investors require for taking risk?,RiskPremium
+Which term describes the rate used to calculate the present value of future money?,DiscountRate
+Which term describes the value today of money expected in the future?,PresentValue
+Which term describes the value money will grow to at a later date?,FutureValue
+Which term describes the process of finding today's value of future money?,Discounting
+Which term describes investment return after adjusting for inflation?,RealReturn
+Which term describes investment return before adjusting for inflation?,NominalReturn
+"Which term describes the account recording trade, income, and transfers with other countries?",CurrentAccount
+Which term describes the account recording cross-border investment and financial flows?,FinancialAccount
+Which term describes the record of a country's transactions with the rest of the world?,BalanceOfPayments
+Which term describes the difference between a country's exports and imports?,TradeBalance
+Which term describes a situation where the value of exports is greater than imports?,TradeSurplus
+Which term describes a situation where the value of imports is greater than exports?,TradeDeficit
+Which term describes the value of exports minus the value of imports?,NetExports
+Which term describes a good or service sold to another country?,Export
+Which term describes a good or service bought from another country?,Import
+Which term describes the price of one currency measured in another currency?,ExchangeRate
+Which term describes a rise in a currency's value under a floating exchange rate?,Appreciation
+Which term describes a fall in a currency's value under a floating exchange rate?,Depreciation
+Which term describes an official lowering of a currency's value in a fixed system?,Devaluation
+Which term describes an official raising of a currency's value in a fixed system?,Revaluation
+Which term describes a system that links a currency's value to another currency?,CurrencyPeg
+Which term describes an exchange rate mainly set by market demand and supply?,FloatingRate
+Which term describes foreign assets held by a country's central bank?,ForeignReserves
+Which term describes money sent home by people working in another country?,Remittance
+Which term describes investment in a foreign business that gives lasting control or influence?,FDI
+Which term describes investment in foreign shares or bonds without controlling the company?,PortfolioInvestment
+Which term describes the growing connection of countries through trade and investment?,Globalization
+Which term describes government action that protects local businesses from foreign competition?,Protectionism
+Which term describes trade between countries with few tariffs or quotas?,FreeTrade
+Which term describes the removal or reduction of restrictions on trade?,Liberalization
+Which term describes selling goods abroad at unfairly low prices?,Dumping
+Which term describes the government service that checks goods crossing borders?,Customs
+Which term describes the cost or service of transporting goods?,Freight
+Which term describes the planning and movement of goods from one place to another?,Logistics
+Which term describes the network that moves goods from raw materials to customers?,SupplyChain
+Which term describes a document showing that goods have been loaded for shipping?,BillOfLading
+Which term describes a bank promise to pay a seller when agreed conditions are met?,LetterOfCredit
+Which term describes standard rules that explain delivery duties in international trade?,Incoterms
+Which term describes the extra value created by a business during production?,ValueAdded
+Which term describes selling goods in large quantities to other businesses?,Wholesale
+Which term describes selling goods directly to final customers?,Retail
+Which term describes a person who buys goods or services for use?,Consumer
+Which term describes a person or business that makes goods or provides services?,Producer
+Which term describes a business that provides goods or materials to another business?,Supplier
+Which term describes a business that sells goods in bulk to retailers?,Wholesaler
+Which term describes a business that sells goods to final customers?,Retailer
+Which term describes the process of buying goods and services for a business?,Procurement
+Which term describes the process of moving products from makers to buyers?,Distribution
+Which term describes a business arrangement allowing use of another company's brand and model?,Franchise
+Which term describes the combination of two companies into one?,Merger
+Which term describes one company buying another company?,Acquisition
+Which term describes the transfer of a business from public to private ownership?,Privatization
+Which term describes the transfer of a business from private to government ownership?,Nationalization
+Which term describes the removal or reduction of government rules in a market?,Deregulation
+Which term describes a newly created business?,Startup
+Which term describes investment in young companies with high growth potential?,VentureCapital
+"Which term describes raising money from many people, often through an online platform?",Crowdfunding
+Which term describes a person who invests personal money in an early-stage business?,AngelInvestor
+Which term describes a business owned by one person?,SoleProprietorship
+Which term describes a business owned by two or more people?,Partnership
+Which term describes a business that is legally separate from its owners?,Corporation
+Which term describes a business owned and controlled by its members?,Cooperative
+Which term describes money given to support a project or business without repayment?,Grant
+Which term describes a fund that invests money to pay retirement benefits?,PensionFund
+Which term describes a government-owned fund that invests national savings?,SovereignFund
+Which term describes a tax charged on carbon emissions?,CarbonTax
+Which term describes a permit or certificate representing a set amount of emissions?,CarbonCredit
+Which term describes a market where emissions permits or credits are traded?,CarbonMarket
+Which term describes a period of serious trouble in banks or financial markets?,FinancialCrisis
+Which term describes a rush by customers to withdraw money from a bank?,BankRun
+Which term describes a sudden shortage of cash or easily available funding?,LiquidityCrunch
+Which term describes a situation where lenders sharply reduce or stop new lending?,CreditFreeze
+Which term describes the chance that a borrower will fail to repay?,DefaultRisk
+Which term describes the chance that a person or business will become unable to pay debts?,BankruptcyRisk
+Which term describes the amount of capital a bank holds compared with its risks?,CapitalAdequacy
+Which term describes a system that protects bank deposits up to a stated limit?,DepositInsurance
+Which term describes the process banks use to verify a customer's identity?,KYC
+Which term describes rules and checks designed to prevent money laundering?,AML
+Which term describes the illegal process of hiding where criminal money came from?,MoneyLaundering
+Which term describes the use of technology to provide financial services?,Fintech
+Which term describes a digital asset that uses cryptography to secure transactions?,Cryptocurrency
+Which term describes a shared digital record stored across a computer network?,Blockchain
+Which term describes digital money issued by a central bank?,CBDC
+Which term describes an electronic tool used to store payment details or digital money?,DigitalWallet
+Which term describes a network banks use to send secure financial messages?,SWIFT
+Which term describes a standard format for identifying bank accounts across borders?,IBAN
+Which term describes a machine that lets people withdraw cash and perform banking tasks?,ATM
+Which term describes a payment card that uses money from a bank account?,DebitCard
+Which term describes a payment card that lets a customer borrow for purchases?,CreditCard
+Which term describes an instruction allowing a company to collect money from an account?,DirectDebit
+Which term describes a written instruction telling a bank to pay money?,Cheque
+Which term describes a document asking a buyer to pay for goods or services?,Invoice
+Which term describes a document showing that a payment has been made?,Receipt
+Which term describes a service used to send money to another person or country?,RemittanceService
+Which term describes a fund that can be bought and sold on an exchange?,ExchangeTradedFund
+Which term describes financial services that help companies raise capital and arrange deals?,InvestmentBanking
+Which term describes a company or person that manages investments for clients?,AssetManager
+Which term describes an organization that assesses the credit risk of borrowers?,RatingAgency
+Which term describes an opinion about how likely a borrower is to repay debt?,CreditRating
+Which term describes an organization that helps complete and guarantee trades?,Clearinghouse
+Which term describes the final exchange of money and assets after a trade?,Settlement
+Which term describes the process of checking that two sets of financial records match?,Reconciliation
+Which term describes the committee that sets key monetary policy in the United States?,FOMC
+Which term describes the central bank system of the United States?,FederalReserve
+Which term describes the central bank for the euro area?,ECB
+Which term describes the central bank of the United Kingdom?,BoE
+Which term describes the central bank of Japan?,BoJ
+Which term describes the central bank of India?,RBI
+Which term describes the central bank of Bangladesh?,BangladeshBank
+Which term describes the central bank of China?,PBOC
+Which term describes the group of oil-exporting countries that coordinates oil policies?,OPEC
+Which term describes the international institution that helps countries with balance-of-payments problems?,IMF
+Which term describes the global institution that finances development and poverty reduction?,WorldBank
+Which term describes the global organization that oversees international trade rules?,WTO
+Which term describes the organization that promotes economic policy cooperation among member countries?,OECD
+Which term describes the organization that supports cooperation among central banks?,BIS
+Which term describes the development bank focused on Asia and the Pacific?,ADB
+Which term describes the development bank focused on Africa?,AfDB
+Which term describes the development bank focused on Latin America and the Caribbean?,IDB
+Which term describes the bank created to finance infrastructure in Asia?,AIIB
+Which term describes the bank that supports development and investment in Europe and nearby regions?,EBRD
+Which term describes the World Bank Group institution that supports private businesses?,IFC
+Which term describes the World Bank Group institution that provides support to low-income countries?,IDA
+Which term describes the World Bank Group institution that lends mainly to middle-income countries?,IBRD
+Which term describes the World Bank Group institution that provides political risk insurance?,MIGA
+Which term describes the institution that helps settle international investment disputes?,ICSID
+Which term describes the United Nations body that studies trade and development?,UNCTAD
+Which term describes the international group that sets standards against money laundering?,FATF
+Which term describes the international body that coordinates financial stability work?,FSB
+Which term describes the forum of twenty major economies?,G20
+Which term describes the forum of seven major advanced economies?,G7
+"Which term describes the group originally named for Brazil, Russia, India, China, and South Africa?",BRICS
+Which term describes the regional group of Southeast Asian countries?,ASEAN
+Which term describes the regional forum for economic cooperation around the Pacific?,APEC
+Which term describes the regional association of South Asian countries?,SAARC
+Which term describes the group of countries that use the euro?,Eurozone
+Which term describes the political and economic union of many European countries?,EU
+Which term describes the trade agreement that came before the WTO?,GATT
+Which term describes the WTO agreement covering trade in services?,GATS
+Which term describes the WTO agreement covering intellectual property rights?,TRIPS
+Which term describes the 1944 conference that led to the IMF and World Bank?,BrettonWoods
+Which term describes the international reserve asset created by the IMF?,SDR
+Which term describes the IMF report called the World Economic Outlook?,WEO
+Which term describes the World Bank report called the World Development Report?,WDR
+Which term describes the major stock exchange based in New York?,NYSE
+Which term describes the US electronic stock exchange known for many technology listings?,Nasdaq
+Which term describes the main stock exchange in London?,LSE
+Which term describes the main stock exchange in Tokyo?,TSE
+Which term describes the stock exchange group in Hong Kong?,HKEX
+Which term describes the main stock exchange in Dhaka?,DSE
+Which term describes the National Stock Exchange of India?,NSE
+Which term describes the Bombay Stock Exchange in India?,BSE
+Which term describes the Shanghai Stock Exchange?,SSE
+Which term describes the Australian Securities Exchange?,ASX
+Which term describes the Toronto Stock Exchange?,TSX
+Which term describes the US stock index tracking 500 large companies?,SP500
+Which term describes the US stock index tracking 30 major companies?,DowJones
+Which term describes the broad Nasdaq index with many technology shares?,NasdaqComposite
+Which term describes the UK index tracking 100 large listed companies?,FTSE100
+Which term describes the Japanese index tracking 225 major shares?,Nikkei225
+Which term describes the main stock index for Hong Kong shares?,HangSeng
+Which term describes the German index of major listed companies?,DAX
+Which term describes the French index of 40 major listed companies?,CAC40
+Which term describes the Indian stock index of 30 major companies?,Sensex
+Which term describes the Indian stock index of 50 major companies?,Nifty50
+Which term describes the broad index of the Dhaka Stock Exchange?,DSEX
+Which term describes the main composite stock index of South Korea?,KOSPI
+Which term describes the Australian index of 200 leading companies?,ASX200
+Which term describes money borrowed by a national government?,SovereignDebt
+Which term describes money owed by a country to lenders abroad?,ExternalDebt
+Which term describes money owed by a government to lenders at home?,DomesticDebt
+Which term describes changing the repayment terms of existing debt?,DebtRestructuring
+Which term describes a rule that limits government deficits or public debt?,FiscalRule
+Which term describes the rate of price growth a central bank aims to achieve?,InflationTarget
+Which term describes government spending that can be changed through the budget?,DiscretionarySpending
+Which term describes a policy feature that supports the economy without a new decision?,AutomaticStabilizer
+Which term describes the degree to which tax rates rise with income?,Progressivity
+"Which term describes the income, property, or activity on which a tax is charged?",TaxBase
+Which term describes money the government collects through taxes?,TaxRevenue
+Which term describes the amount by which government spending exceeds revenue?,FiscalDeficit
+Which term describes the government budget balance before interest payments?,PrimaryBalance
+Which term describes regular government spending on services and operations?,CurrentExpenditure
+Which term describes government spending on long-term assets such as roads and schools?,CapitalExpenditure
+Which term describes goods provided for broad public use?,PublicGoods
+Which term describes public support that helps people facing hardship?,SocialSafetyNet
+Which term describes money paid to people who qualify after losing work?,UnemploymentBenefit
+Which term describes the lowest hourly or monthly pay set by law?,MinimumWage
+Which term describes pay considered enough to cover basic living costs?,LivingWage
+Which term describes the share of national income paid to workers?,LaborShare
+Which term describes the share of national income going to owners of capital?,CapitalShare
+Which term describes the skills and knowledge people gain through education and training?,HumanCapital
+"Which term describes machines, buildings, and equipment used to produce goods?",PhysicalCapital
+Which term describes materials from nature used in production?,NaturalResources
+Which term describes the maximum amount an economy can produce with available resources?,ProductiveCapacity
+Which term describes the share of productive capacity currently being used?,CapacityUtilization
+Which term describes a survey index of purchasing managers' views on business activity?,PMI
+Which term describes the value of goods sold by retail businesses?,RetailSales
+Which term describes the number of new homes whose construction has begun?,HousingStarts
+Which term describes a measure of how optimistic households feel about the economy?,ConsumerConfidence
+Which term describes a measure of how optimistic firms feel about business conditions?,BusinessConfidence
+Which term describes the rate at which workers' pay rises over time?,WageGrowth
+Which term describes the interest rate charged on a home loan?,MortgageRate
+Which term describes an index that tracks changes in home prices?,HousePriceIndex
+Which term describes a basic raw material that can be bought and sold?,Commodity
+Which term describes a precious metal often held as an investment or reserve?,Gold
+Which term describes a major energy commodity traded around the world?,Oil
+Which term describes a fuel commodity used for energy and heating?,NaturalGas
+Which term describes a grain commodity used as food?,Wheat
+Which term describes an agricultural commodity traded internationally?,Coffee
+Which term describes an industrial metal widely used in electrical equipment?,Copper
+Which term describes a precious metal used in industry and investment?,Silver
+Which term describes the price for buying an asset for immediate delivery?,SpotPrice
+Which term describes a market for contracts to trade assets at a later date?,FuturesMarket
+Which term describes a market where assets are bought and sold for near-term delivery?,SpotMarket
+Which term describes an option that gives the right to buy an asset?,Call
+Which term describes an option that gives the right to sell an asset?,Put
+Which term describes the agreed price at which an option may be used?,StrikePrice
+Which term describes the final date when an option contract can be used?,Expiration
+Which term describes the price paid to buy an option contract?,PremiumOption
+Which term describes the difference between a futures price and a spot price?,Basis
+Which term describes the risk that a hedge and the asset do not move in sync?,BasisRisk
+Which term describes a policy that works against the current economic cycle?,CountercyclicalPolicy
+Which term describes a tax system that changes payments as income changes?,AutomaticTax
+Which term describes inflation caused by demand growing faster than supply?,DemandPullInflation
+Which term describes inflation caused by higher production costs?,CostPushInflation
+Which term describes the long-run unemployment rate an economy tends to return to?,NaturalRate
+Which term describes unemployment while people move between jobs?,FrictionalUnemployment
+Which term describes unemployment caused by a mismatch of skills and jobs?,StructuralUnemployment
+Which term describes unemployment caused by weak demand during a downturn?,CyclicalUnemployment
+Which term describes working fewer hours or below one's skill level when more work is wanted?,Underemployment
+Which term describes economic activity that is not fully recorded or regulated?,InformalEconomy
+Which term describes the growth in the share of people living in towns and cities?,Urbanization
+Which term describes the movement of people from one place or country to another?,Migration
+Which term describes money a country earns from visitors from abroad?,TourismReceipts
+Which term describes a group of countries that coordinate wider economic policies?,EconomicUnion
+Which term describes a group of countries with free internal trade and a common outside tariff?,CustomsUnion
+Which term describes a group of countries that remove many trade barriers between members?,FreeTradeArea
+Which term describes a group of countries that cooperate to reduce trade barriers?,TradeBloc
+Which term describes a rule requiring a share of a product to be made locally?,LocalContentRule
+Which term describes an extra import tax used against goods sold at unfairly low prices?,AntidumpingDuty
+Which term describes an import tax used to offset a foreign subsidy?,CountervailingDuty
+Which term describes a trade restriction that is not a customs tax?,NontariffBarrier
+Which term describes a secure place where imported goods can be stored before duties are paid?,BondedWarehouse
+Which term describes a written order asking one party to pay another party?,BillOfExchange
+Which term describes a document showing the country where goods were made?,CertificateOfOrigin
+Which term describes insurance that protects goods while they are being transported?,CargoInsurance
+Which term describes a trade term where the seller delivers goods on board the ship?,FOB
+"Which term describes a trade term where the seller pays cost, insurance, and freight to a port?",CIF
+Which term describes a trade term where the buyer collects goods from the seller's premises?,EXW
+Which term describes a trade term where the seller takes responsibility for delivery and import duties?,DDP
+What is the three-letter ISO code for the US dollar?,USD
+Which currency has the ISO code USD?,UsDollar
+What is the three-letter ISO code for the euro?,EUR
+Which currency has the ISO code EUR?,Euro
+What is the three-letter ISO code for the Japanese yen?,JPY
+Which currency has the ISO code JPY?,JapaneseYen
+What is the three-letter ISO code for the British pound?,GBP
+Which currency has the ISO code GBP?,BritishPound
+What is the three-letter ISO code for the Swiss franc?,CHF
+Which currency has the ISO code CHF?,SwissFranc
+What is the three-letter ISO code for the Canadian dollar?,CAD
+Which currency has the ISO code CAD?,CanadianDollar
+What is the three-letter ISO code for the Australian dollar?,AUD
+Which currency has the ISO code AUD?,AustralianDollar
+What is the three-letter ISO code for the New Zealand dollar?,NZD
+Which currency has the ISO code NZD?,NewZealandDollar
+What is the three-letter ISO code for the Chinese yuan?,CNY
+Which currency has the ISO code CNY?,ChineseYuan
+What is the three-letter ISO code for the Indian rupee?,INR
+Which currency has the ISO code INR?,IndianRupee
+What is the three-letter ISO code for the Bangladeshi taka?,BDT
+Which currency has the ISO code BDT?,BangladeshiTaka
+What is the three-letter ISO code for the Pakistani rupee?,PKR
+Which currency has the ISO code PKR?,PakistaniRupee
+What is the three-letter ISO code for the Sri Lankan rupee?,LKR
+Which currency has the ISO code LKR?,SriLankanRupee
+What is the three-letter ISO code for the Nepalese rupee?,NPR
+Which currency has the ISO code NPR?,NepaleseRupee
+What is the three-letter ISO code for the Bhutanese ngultrum?,BTN
+Which currency has the ISO code BTN?,BhutaneseNgultrum
+What is the three-letter ISO code for the Maldivian rufiyaa?,MVR
+Which currency has the ISO code MVR?,MaldivianRufiyaa
+What is the three-letter ISO code for the Singapore dollar?,SGD
+Which currency has the ISO code SGD?,SingaporeDollar
+What is the three-letter ISO code for the Hong Kong dollar?,HKD
+Which currency has the ISO code HKD?,HongKongDollar
+What is the three-letter ISO code for the South Korean won?,KRW
+Which currency has the ISO code KRW?,SouthKoreanWon
+What is the three-letter ISO code for the Thai baht?,THB
+Which currency has the ISO code THB?,ThaiBaht
+What is the three-letter ISO code for the Vietnamese dong?,VND
+Which currency has the ISO code VND?,VietnameseDong
+What is the three-letter ISO code for the Indonesian rupiah?,IDR
+Which currency has the ISO code IDR?,IndonesianRupiah
+What is the three-letter ISO code for the Malaysian ringgit?,MYR
+Which currency has the ISO code MYR?,MalaysianRinggit
+What is the three-letter ISO code for the Philippine peso?,PHP
+Which currency has the ISO code PHP?,PhilippinePeso
+What is the three-letter ISO code for the Saudi riyal?,SAR
+Which currency has the ISO code SAR?,SaudiRiyal
+What is the three-letter ISO code for the United Arab Emirates dirham?,AED
+Which currency has the ISO code AED?,UnitedArabEmiratesDirham
+What is the three-letter ISO code for the Qatari riyal?,QAR
+Which currency has the ISO code QAR?,QatariRiyal
+What is the three-letter ISO code for the Kuwaiti dinar?,KWD
+Which currency has the ISO code KWD?,KuwaitiDinar
+What is the three-letter ISO code for the Bahraini dinar?,BHD
+Which currency has the ISO code BHD?,BahrainiDinar
+What is the three-letter ISO code for the Omani rial?,OMR
+Which currency has the ISO code OMR?,OmaniRial
+What is the three-letter ISO code for the Turkish lira?,TRY
+Which currency has the ISO code TRY?,TurkishLira
+What is the three-letter ISO code for the Russian ruble?,RUB
+Which currency has the ISO code RUB?,RussianRuble
+What is the three-letter ISO code for the South African rand?,ZAR
+Which currency has the ISO code ZAR?,SouthAfricanRand
+What is the three-letter ISO code for the Nigerian naira?,NGN
+Which currency has the ISO code NGN?,NigerianNaira
+What is the three-letter ISO code for the Kenyan shilling?,KES
+Which currency has the ISO code KES?,KenyanShilling
+What is the three-letter ISO code for the Ghanaian cedi?,GHS
+Which currency has the ISO code GHS?,GhanaianCedi
+What is the three-letter ISO code for the Egyptian pound?,EGP
+Which currency has the ISO code EGP?,EgyptianPound
+What is the three-letter ISO code for the Moroccan dirham?,MAD
+Which currency has the ISO code MAD?,MoroccanDirham
+What is the three-letter ISO code for the Brazilian real?,BRL
+Which currency has the ISO code BRL?,BrazilianReal
+What is the three-letter ISO code for the Mexican peso?,MXN
+Which currency has the ISO code MXN?,MexicanPeso
+What is the three-letter ISO code for the Argentine peso?,ARS
+Which currency has the ISO code ARS?,ArgentinePeso
+What is the three-letter ISO code for the Chilean peso?,CLP
+Which currency has the ISO code CLP?,ChileanPeso
+What is the three-letter ISO code for the Colombian peso?,COP
+Which currency has the ISO code COP?,ColombianPeso
+What is the three-letter ISO code for the Peruvian sol?,PEN
+Which currency has the ISO code PEN?,PeruvianSol
+What is the three-letter ISO code for the Israeli new shekel?,ILS
+Which currency has the ISO code ILS?,IsraeliNewShekel
+What is the three-letter ISO code for the Swedish krona?,SEK
+Which currency has the ISO code SEK?,SwedishKrona
+What is the three-letter ISO code for the Norwegian krone?,NOK
+Which currency has the ISO code NOK?,NorwegianKrone
+What is the three-letter ISO code for the Danish krone?,DKK
+Which currency has the ISO code DKK?,DanishKrone
+What is the three-letter ISO code for the Polish zloty?,PLN
+Which currency has the ISO code PLN?,PolishZloty
+What is the three-letter ISO code for the Hungarian forint?,HUF
+Which currency has the ISO code HUF?,HungarianForint
+What is the three-letter ISO code for the Czech koruna?,CZK
+Which currency has the ISO code CZK?,CzechKoruna
+What is the three-letter ISO code for the Romanian leu?,RON
+Which currency has the ISO code RON?,RomanianLeu
+What is the three-letter ISO code for the Ukrainian hryvnia?,UAH
+Which currency has the ISO code UAH?,UkrainianHryvnia
+What is the three-letter ISO code for the Icelandic krona?,ISK
+Which currency has the ISO code ISK?,IcelandicKrona
+What is the three-letter ISO code for the New Taiwan dollar?,TWD
+Which currency has the ISO code TWD?,NewTaiwanDollar
+What is the three-letter ISO code for the Macanese pataca?,MOP
+Which currency has the ISO code MOP?,MacanesePataca
+What is the three-letter ISO code for the Cambodian riel?,KHR
+Which currency has the ISO code KHR?,CambodianRiel
+What is the three-letter ISO code for the Lao kip?,LAK
+Which currency has the ISO code LAK?,LaoKip
+What is the three-letter ISO code for the Myanmar kyat?,MMK
+Which currency has the ISO code MMK?,MyanmarKyat
+What is the three-letter ISO code for the Mongolian tugrik?,MNT
+Which currency has the ISO code MNT?,MongolianTugrik
+What is the three-letter ISO code for the Kazakh tenge?,KZT
+Which currency has the ISO code KZT?,KazakhTenge
+What is the three-letter ISO code for the Uzbekistani som?,UZS
+Which currency has the ISO code UZS?,UzbekistaniSom
+What is the three-letter ISO code for the Georgian lari?,GEL
+Which currency has the ISO code GEL?,GeorgianLari
+What is the three-letter ISO code for the Armenian dram?,AMD
+Which currency has the ISO code AMD?,ArmenianDram
+What is the three-letter ISO code for the Azerbaijani manat?,AZN
+Which currency has the ISO code AZN?,AzerbaijaniManat
+What is the three-letter ISO code for the Afghan afghani?,AFN
+Which currency has the ISO code AFN?,AfghanAfghani
+What is the three-letter ISO code for the Iraqi dinar?,IQD
+Which currency has the ISO code IQD?,IraqiDinar
+What is the three-letter ISO code for the Iranian rial?,IRR
+Which currency has the ISO code IRR?,IranianRial
+What is the three-letter ISO code for the Jordanian dinar?,JOD
+Which currency has the ISO code JOD?,JordanianDinar
+What is the three-letter ISO code for the Lebanese pound?,LBP
+Which currency has the ISO code LBP?,LebanesePound
+What is the three-letter ISO code for the Algerian dinar?,DZD
+Which currency has the ISO code DZD?,AlgerianDinar
+What is the three-letter ISO code for the Tunisian dinar?,TND
+Which currency has the ISO code TND?,TunisianDinar
+What is the three-letter ISO code for the Tanzanian shilling?,TZS
+Which currency has the ISO code TZS?,TanzanianShilling
+What is the three-letter ISO code for the Ugandan shilling?,UGX
+Which currency has the ISO code UGX?,UgandanShilling
+What is the three-letter ISO code for the Rwandan franc?,RWF
+Which currency has the ISO code RWF?,RwandanFranc
+What is the three-letter ISO code for the Ethiopian birr?,ETB
+Which currency has the ISO code ETB?,EthiopianBirr
+What is the three-letter ISO code for the Zambian kwacha?,ZMW
+Which currency has the ISO code ZMW?,ZambianKwacha
+What is the three-letter ISO code for the Botswana pula?,BWP
+Which currency has the ISO code BWP?,BotswanaPula
+What is the three-letter ISO code for the Namibian dollar?,NAD
+Which currency has the ISO code NAD?,NamibianDollar
+What is the three-letter ISO code for the Mozambican metical?,MZN
+Which currency has the ISO code MZN?,MozambicanMetical
+What is the three-letter ISO code for the Malawian kwacha?,MWK
+Which currency has the ISO code MWK?,MalawianKwacha
+What is the three-letter ISO code for the Angolan kwanza?,AOA
+Which currency has the ISO code AOA?,AngolanKwanza
+What is the three-letter ISO code for the Sierra Leonean leone?,SLE
+Which currency has the ISO code SLE?,SierraLeoneanLeone
+What is the three-letter ISO code for the Liberian dollar?,LRD
+Which currency has the ISO code LRD?,LiberianDollar
+What is the three-letter ISO code for the West African CFA franc?,XOF
+Which currency has the ISO code XOF?,WestAfricanCfaFranc
+What is the three-letter ISO code for the Central African CFA franc?,XAF
+Which currency has the ISO code XAF?,CentralAfricanCfaFranc
+What is the three-letter ISO code for the East Caribbean dollar?,XCD
+Which currency has the ISO code XCD?,EastCaribbeanDollar
+What is the three-letter ISO code for the Fiji dollar?,FJD
+Which currency has the ISO code FJD?,FijiDollar
+What is the three-letter ISO code for the Papua New Guinean kina?,PGK
+Which currency has the ISO code PGK?,PapuaNewGuineanKina
+What is the three-letter ISO code for the Samoan tala?,WST
+Which currency has the ISO code WST?,SamoanTala
+What is the three-letter ISO code for the Tongan paanga?,TOP
+Which currency has the ISO code TOP?,TonganPaanga
+What is the three-letter ISO code for the Vanuatu vatu?,VUV
+Which currency has the ISO code VUV?,VanuatuVatu
+What is the three-letter ISO code for the Paraguayan guarani?,PYG
+Which currency has the ISO code PYG?,ParaguayanGuarani
+What is the three-letter ISO code for the Uruguayan peso?,UYU
+Which currency has the ISO code UYU?,UruguayanPeso
+What is the three-letter ISO code for the Bolivian boliviano?,BOB
+Which currency has the ISO code BOB?,BolivianBoliviano
+What is the three-letter ISO code for the Venezuelan bolivar?,VES
+Which currency has the ISO code VES?,VenezuelanBolivar
+What is the three-letter ISO code for the Costa Rican colon?,CRC
+Which currency has the ISO code CRC?,CostaRicanColon
+What is the three-letter ISO code for the Guatemalan quetzal?,GTQ
+Which currency has the ISO code GTQ?,GuatemalanQuetzal
+What is the three-letter ISO code for the Honduran lempira?,HNL
+Which currency has the ISO code HNL?,HonduranLempira
+What is the three-letter ISO code for the Nicaraguan cordoba?,NIO
+Which currency has the ISO code NIO?,NicaraguanCordoba
+What is the usual short name of the International Monetary Fund?,IMF
+What is the usual short name of the World Bank?,WorldBank
+What is the usual short name of the World Trade Organization?,WTO
+What is the usual short name of the Organisation for Economic Co-operation and Development?,OECD
+What is the usual short name of the Bank for International Settlements?,BIS
+What is the usual short name of the Financial Stability Board?,FSB
+What is the usual short name of the Financial Action Task Force?,FATF
+What is the usual short name of the Asian Development Bank?,ADB
+What is the usual short name of the African Development Bank?,AfDB
+What is the usual short name of the Inter-American Development Bank?,IDB
+What is the usual short name of the European Bank for Reconstruction and Development?,EBRD
+What is the usual short name of the Asian Infrastructure Investment Bank?,AIIB
+What is the usual short name of the International Finance Corporation?,IFC
+What is the usual short name of the International Development Association?,IDA
+What is the usual short name of the International Bank for Reconstruction and Development?,IBRD
+What is the usual short name of the Multilateral Investment Guarantee Agency?,MIGA
+What is the usual short name of the International Centre for Settlement of Investment Disputes?,ICSID
+What is the usual short name of the United Nations Conference on Trade and Development?,UNCTAD
+What is the usual short name of the International Labour Organization?,ILO
+What is the usual short name of the Food and Agriculture Organization?,FAO
+What is the usual short name of the United Nations Industrial Development Organization?,UNIDO
+What is the usual short name of the World Intellectual Property Organization?,WIPO
+What is the usual short name of the International Organization of Securities Commissions?,IOSCO
+What is the usual short name of the International Association of Insurance Supervisors?,IAIS
+What is the usual short name of the World Customs Organization?,WCO
+What is the usual short name of the Organization of the Petroleum Exporting Countries?,OPEC
+What is the usual short name of the Group of Twenty?,G20
+What is the usual short name of the Group of Seven?,G7
+What is the usual short name of the Asia-Pacific Economic Cooperation?,APEC
+What is the usual short name of the Association of Southeast Asian Nations?,ASEAN
+What is the usual short name of the European Union?,EU
+What is the usual short name of the South Asian Association for Regional Cooperation?,SAARC
+What is the usual short name of the New Development Bank?,NDB
+What is the usual short name of the European Central Bank?,ECB
+What is the usual short name of the Federal Reserve System?,FederalReserve
+What is the usual short name of the Bank of England?,BoE
+What is the usual short name of the Bank of Japan?,BoJ
+What is the usual short name of the Reserve Bank of India?,RBI
+What is the usual short name of the Bangladesh Bank?,BangladeshBank
+What is the usual short name of the People's Bank of China?,PBOC
+Which stock exchange is known as the New York Stock Exchange?,NYSE
+Which stock exchange is known as the Nasdaq Stock Market?,Nasdaq
+Which stock exchange is known as the London Stock Exchange?,LSE
+Which stock exchange is known as the Tokyo Stock Exchange?,TSE
+Which stock exchange is known as the Hong Kong Exchanges and Clearing?,HKEX
+Which stock exchange is known as the Shanghai Stock Exchange?,SSE
+Which stock exchange is known as the Shenzhen Stock Exchange?,SZSE
+Which stock exchange is known as the National Stock Exchange of India?,NSE
+Which stock exchange is known as the Bombay Stock Exchange?,BSE
+Which stock exchange is known as the Dhaka Stock Exchange?,DSE
+Which stock exchange is known as the Pakistan Stock Exchange?,PSX
+Which stock exchange is known as the Korea Exchange?,KRX
+Which stock exchange is known as the Australian Securities Exchange?,ASX
+Which stock exchange is known as the Toronto Stock Exchange?,TSX
+Which stock exchange is known as the Euronext?,Euronext
+Which stock exchange is known as the SIX Swiss Exchange?,SIX
+Which stock exchange is known as the Borsa Italiana?,BorsaItaliana
+Which stock exchange is known as the Johannesburg Stock Exchange?,JSE
+Which stock exchange is known as the Brazilian B3 exchange?,B3
+Which stock exchange is known as the Mexican Stock Exchange?,BMV
+Which stock exchange is known as the Singapore Exchange?,SGX
+Which stock exchange is known as the Taiwan Stock Exchange?,TWSE
+Which stock exchange is known as the Indonesia Stock Exchange?,IDX
+Which stock exchange is known as the Bursa Malaysia?,Bursa
+Which stock exchange is known as the Stock Exchange of Thailand?,SET
+Which stock exchange is known as the Philippine Stock Exchange?,PSE
+Which stock exchange is known as the Saudi Exchange?,Tadawul
+Which stock exchange is known as the Abu Dhabi Securities Exchange?,ADX
+Which stock exchange is known as the Qatar Stock Exchange?,QSE
+Which stock exchange is known as the Dubai Financial Market?,DFM
+Which stock exchange is known as the Nigerian Exchange?,NGX
+Which stock exchange is known as the Egyptian Exchange?,EGX
+Which stock exchange is known as the Nairobi Securities Exchange?,NSE
+Which stock exchange is known as the Ghana Stock Exchange?,GSE
+Which stock exchange is known as the Colombo Stock Exchange?,CSE
+Which stock exchange is known as the Nepal Stock Exchange?,NEPSE
+Which stock exchange is known as the Moscow Exchange?,MOEX
+Which stock exchange is known as the Warsaw Stock Exchange?,WSE
+Which stock index tracks 500 large US companies?,SP500
+Which stock index tracks 30 major US companies?,DowJones
+Which stock index tracks the broad Nasdaq market?,NasdaqComposite
+Which stock index tracks 100 large UK listed companies?,FTSE100
+Which stock index tracks 225 major Japanese shares?,Nikkei225
+Which stock index tracks major Hong Kong shares?,HangSeng
+Which stock index tracks major German listed companies?,DAX
+Which stock index tracks 40 major French listed companies?,CAC40
+Which stock index tracks 30 major Indian companies?,Sensex
+Which stock index tracks 50 major Indian companies?,Nifty50
+Which stock index tracks leading shares on the Dhaka Stock Exchange?,DSEX
+Which stock index tracks the South Korean share market?,KOSPI
+Which stock index tracks 200 leading Australian companies?,ASX200
+Which stock index tracks major Canadian companies?,TSXComposite
+Which stock index tracks the broad Shanghai share market?,SSEComposite
+Which stock index tracks the Taiwan share market?,TAIEX
+Which stock index tracks the Indonesian share market?,JCI
+Which stock index tracks the Singapore share market?,STI
+Which stock index tracks the Brazilian share market?,Ibovespa
+Which stock index tracks the Mexican share market?,IPC
+You list your expected income and expenses for a month. What is this plan called?,Budget
+You save money for unexpected repairs or medical bills. What fund is this?,EmergencyFund
+You subtract all debts from everything you own. What value do you get?,NetWorth
+You keep some of your income instead of spending it. What is this called?,Saving
+You use money from your bank account directly when paying by card. Which card is this?,DebitCard
+You borrow money for purchases and repay the card company later. Which card is this?,CreditCard
+You borrow money to buy a house. What kind of loan is this?,Mortgage
+You pledge a car or home to support a loan. What is this asset called?,Collateral
+A lender checks your past borrowing record. What is this record called?,CreditHistory
+A lender uses a number to estimate how safely you repay debt. What is this number?,CreditScore
+You pay the same amount every month for insurance. What is this payment?,Premium
+You pay the first part of an insured loss yourself. What is this amount called?,Deductible
+You name a person to receive insurance money after your death. What is that person?,Beneficiary
+You pay a loan in planned parts over several years. What is this process?,Amortization
+You miss a required loan payment. What has happened?,Default
+You spend more from an account than its available balance. What is this called?,Overdraft
+You keep money in a bank account for later use. Which account is suitable?,Savings
+You use a bank account mainly to pay daily bills. Which account is suitable?,Checking
+You take money out of your bank account. What is this action?,Withdrawal
+You put money into your bank account. What is this action?,Deposit
+You compare your income and expenses before spending. What are you doing?,Budgeting
+You borrow money and pay a fee for using it. What is the fee called?,Interest
+You pay interest on the original amount and on earlier interest. What type is it?,CompoundInterest
+You pay interest only on the original amount. What type is it?,SimpleInterest
+You pay the original amount of a loan in addition to interest. What is it called?,Principal
+You earn more from an investment than you paid for it. What did you make?,CapitalGain
+You sell an investment for less than you paid. What did you make?,CapitalLoss
+"You spread your money across shares, bonds, and cash. What strategy is this?",Diversification
+"You own a mix of shares, bonds, and funds. What is the collection called?",Portfolio
+You buy a small ownership part of a company. What do you own?,Stock
+You lend money to a company by buying its debt security. What do you own?,Bond
+A company shares part of its profits with owners. What payment is this?,Dividend
+You pay a lender for the use of borrowed money. What is this payment?,Interest
+You set aside money for life after you stop working. What stage are you planning for?,Retirement
+You receive regular income after leaving work. What is this income often called?,Pension
+An insurer promises to cover certain financial losses under a contract. What is this?,Insurance
+You pay the required amount on a bill after the due date. What fee may apply?,LateFee
+You pay a small amount to reserve a purchase. What is this payment often called?,Deposit
+You receive money back after returning a product. What is this payment?,Refund
+A seller sends a document asking you to pay for goods. What is it?,Invoice
+A shop gives you a record after you pay. What is it?,Receipt
+You send money from your account to another account. What is this action?,Transfer
+You send money to family in another country. What is this called?,Remittance
+You borrow money without pledging a specific asset. What kind of loan is this?,UnsecuredLoan
+You borrow money by pledging an asset. What kind of loan is this?,SecuredLoan
+A loan allows you to use the asset while the lender holds a claim on it. What loan is this?,Mortgage
+You make a plan to pay off several debts over time. What is it?,RepaymentPlan
+You combine several loans into one new loan. What is this process?,Consolidation
+You cannot pay debts when they are due. What condition is this?,Insolvency
+A court process helps deal with debts a person cannot pay. What is it?,Bankruptcy
+You spend money on something essential such as food. What kind of purchase is it?,Need
+You spend on something nice but not essential. What kind of purchase is it?,Want
+You save a set amount for a planned future bill. What fund is this?,SinkingFund
+You track each purchase to see where money goes. What record is this?,ExpenseLog
+You compare the price of a product at different shops. What habit is this?,Shopping
+You keep money to protect yourself from unexpected costs. What is this called?,Reserve
+You pay a yearly percentage for the cost of borrowing. What rate is this?,APR
+A savings account shows its yearly return including compounding. What rate is this?,APY
+You own a home worth more than the loan secured against it. What is the difference called?,HomeEquity
+You receive money from your job before tax is taken out. What income is it?,GrossIncome
+You have money left after tax and required deductions. What income is it?,NetIncome
+"You plan how much to spend, save, and repay. What activity is this?",Planning
+You make a regular payment to reduce a loan. What is it called?,Repayment
+You receive a fixed payment for your work each month. What is this called?,Salary
+You receive money for each hour you work. What is this called?,Wage
+You use a professional to help plan investments. What person is this?,Advisor
+You pay a bank to maintain certain account services. What is this charge?,BankFee
+You pay for using an automatic cash machine. What is this charge?,ATMFee
+You use a machine to withdraw cash from a bank account. What is it?,ATM
+You enter a secret number to verify a bank-card payment. What is it?,PIN
+A country counts the value of finished goods and services made within its borders. Which measure is used?,GDP
+A GDP figure is adjusted for price changes. Is it real or nominal GDP?,RealGDP
+A GDP figure uses current prices. Is it real or nominal GDP?,NominalGDP
+A country has more exports than imports. What trade position does it have?,Surplus
+A country buys more from abroad than it sells abroad. What trade position is this?,Deficit
+The average prices of consumer goods rise over time. What is this called?,Inflation
+The average prices of goods and services fall over time. What is this called?,Deflation
+"Prices keep rising, but at a slower rate than before. What is this called?",Disinflation
+Prices rise quickly while the economy grows slowly. What condition is this?,Stagflation
+A country has a very rapid and extreme rise in prices. What is this called?,Hyperinflation
+A worker has no job and is actively looking for one. What condition is this?,Unemployment
+An economy produces more goods and services than it did last year. What has happened?,Growth
+An economy has a broad fall in activity over time. What period may this be?,Recession
+A country's total output is divided by its population. What measure results?,GDPPerCapita
+The government spends more than it collects in revenue. What is this?,Deficit
+The government collects more revenue than it spends. What is this?,Surplus
+The government changes taxes and spending to influence the economy. Which policy is this?,FiscalPolicy
+A central bank changes interest rates to influence inflation. Which policy is this?,MonetaryPolicy
+A central bank raises its key interest rate. Is this easing or tightening?,Tightening
+A central bank lowers its key interest rate. Is this easing or tightening?,Easing
+A central bank buys government bonds to add money to markets. What policy is this?,QE
+A central bank reduces its holdings of bonds. What policy is this?,QT
+A central bank tells the public how it may set rates in the future. What is this?,ForwardGuidance
+A country's central bank holds foreign currencies to support external payments. What are these?,Reserves
+A country's exports minus its imports are calculated. What is the result called?,NetExports
+"A country records trade, income, and transfers with other countries. Which account is this?",CurrentAccount
+A country records all transactions with the rest of the world. Which record is this?,BalanceOfPayments
+A foreign company builds and controls a business in another country. What investment is this?,FDI
+A worker abroad sends money to family at home. What is the payment called?,Remittance
+A country sets a tax on imported goods. What is the tax called?,Tariff
+A country limits how many units of a good may be imported. What is the limit called?,Quota
+A country bans trade with another country. What is the ban called?,Embargo
+A country restricts financial dealings with a target. What measure is this?,Sanction
+A government gives money to support local producers. What is this payment?,Subsidy
+A country focuses on goods it can make at lower opportunity cost. What principle is this?,ComparativeAdvantage
+A country can make more of a product with the same resources. What advantage is this?,AbsoluteAdvantage
+A business focuses on producing a limited range of goods. What is this called?,Specialization
+A country removes many tariffs between member countries. What trade policy is this?,FreeTrade
+A government protects local firms from foreign competition. What policy is this?,Protectionism
+A business sells its goods in another country. Is it exporting or importing?,Exporting
+A business buys goods from another country. Is it exporting or importing?,Importing
+A group of countries reduces trade barriers between members. What is the group called?,TradeBloc
+Several countries use a shared currency. What is that currency arrangement?,CommonCurrency
+The price of one currency measured in another is calculated. What is this?,ExchangeRate
+A floating currency rises in value. What is this movement?,Appreciation
+A floating currency falls in value. What is this movement?,Depreciation
+A government officially lowers the value of a fixed currency. What is this?,Devaluation
+A government officially raises the value of a fixed currency. What is this?,Revaluation
+A country compares what the same basket can buy in different places. Which idea is used?,PPP
+The movement of money into a country for investment is called what?,CapitalInflow
+The movement of money out of a country for investment is called what?,CapitalOutflow
+A country receives more money from exports than it spends on imports. What balance may result?,TradeSurplus
+A country spends more on imports than it earns from exports. What balance may result?,TradeDeficit
+A rise in demand pushes prices upward. What type of inflation is this?,DemandPullInflation
+Higher production costs push prices upward. What type of inflation is this?,CostPushInflation
+A product price is set below the level where supply equals demand. What may occur?,Shortage
+A product price is set above the level where supply equals demand. What may occur?,Surplus
+The price where buyers and sellers agree is called what?,Equilibrium
+A market has one seller. What market structure is this?,Monopoly
+A market has a few large sellers. What market structure is this?,Oligopoly
+A few firms agree to control prices. What group is this?,Cartel
+A good creates benefits for people who did not pay for it. What effect is this?,PositiveExternality
+A factory causes pollution that harms nearby people. What effect is this?,NegativeExternality
+A tax is set higher for people with higher taxable incomes. What type is it?,ProgressiveTax
+A tax rate stays the same for all taxable income. What type is it?,FlatTax
+A tax takes a larger share of income from lower earners. What type is it?,RegressiveTax
+A government pays money to a person without receiving a service in return. What is it?,TransferPayment
+Government money is used to build a new road. What kind of spending is it?,CapitalExpenditure
+Government money is used for regular office costs. What kind of spending is it?,CurrentExpenditure
+A central bank keeps foreign currency assets for use in external payments. What are these assets called?,ForeignReserves
+A company borrows money from investors and promises repayment with interest. What security is this?,Bond
+A person buys a small ownership part of a company. What security is this?,Stock
+A company pays part of its profit to shareholders. What payment is this?,Dividend
+A company sells shares to the public for the first time. What event is this?,IPO
+A fund is bought and sold on an exchange like a share. What fund is this?,ETF
+A fund holds many investments for a group of people. What fund is this?,MutualFund
+A fund is designed to track a market index. What fund is this?,IndexFund
+An investment fund owns or finances income-producing property. What is it?,REIT
+A contract gives the right to buy an asset at a set price. What is it?,CallOption
+A contract gives the right to sell an asset at a set price. What is it?,PutOption
+A contract's value depends on another asset. What type of contract is it?,Derivative
+A buyer and seller agree today on a private future trade. What contract is this?,Forward
+A standard future trade is made through an exchange. What contract is this?,Future
+Two parties agree to exchange future cash flows. What contract is this?,Swap
+A government sells a short-term debt security. What is it?,TreasuryBill
+A company issues short-term debt to raise cash. What is it?,CommercialPaper
+A bank issues a paper showing a fixed-term deposit. What is it?,CertificateOfDeposit
+A bond pays no regular interest and is sold below face value. What bond is it?,ZeroCouponBond
+A bond can be exchanged for shares of the issuing company. What bond is it?,ConvertibleBond
+A bond is issued by a national government. What bond is it?,SovereignBond
+A bond is issued by a business. What bond is it?,CorporateBond
+"A financial statement lists assets, liabilities, and equity. Which statement is it?",BalanceSheet
+"A financial statement lists revenue, expenses, and profit. Which statement is it?",IncomeStatement
+A report shows cash received and cash paid. Which statement is it?,CashFlowStatement
+A firm subtracts production costs from sales. What profit measure results?,GrossProfit
+A firm subtracts all expenses and taxes from revenue. What profit measure results?,NetProfit
+A company spends money on long-lasting equipment. What spending is it?,Capex
+A business tracks money customers owe it. What are these amounts?,Receivables
+A business tracks money it owes suppliers. What are these amounts?,Payables
+A lender checks whether a borrower can repay. What risk is being checked?,CreditRisk

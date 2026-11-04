@@ -11,6 +11,7 @@ import torch.nn as nn
 
 MODEL_PATH = "quiz_ai.pth"
 VOCAB_PATH = "vocabulary.json"
+ANS_VOCAB_PATH = "ans_vocab.json"
 
 EMBEDDING_SIZE = 64
 HIDDEN_NEURONS = 128
@@ -39,22 +40,43 @@ def tokenizer(text):
 # --------------------------------------------------
 
 class QuizModel(nn.Module):
-    def __init__(self, vocabSize, embeddingSize = 64, hiddenNeurons = 128):
+    def __init__(
+        self,
+        vocabSize,
+        ansVocabSize,
+        embeddingSize=64,
+        hiddenNeurons=128
+    ):
         super().__init__()
-        self.embed = nn.Embedding(num_embeddings= vocabSize, embedding_dim= embeddingSize)
-        self.rnn = nn.RNN(input_size = embeddingSize, hidden_size = hiddenNeurons, batch_first= True)
-        self.net = nn.Sequential(
-            nn.Linear(in_features= hiddenNeurons, out_features= hiddenNeurons),
-            nn.ReLU(),
 
-            nn.Dropout(0.3),
-
-            nn.Linear(in_features= hiddenNeurons, out_features= vocabSize)
+        self.embed = nn.Embedding(
+            num_embeddings=vocabSize,
+            embedding_dim=embeddingSize
         )
-    
+
+        self.lstm = nn.LSTM(
+            input_size=embeddingSize,
+            hidden_size=hiddenNeurons,
+            batch_first=True
+        )
+
+        self.net = nn.Sequential(
+            nn.Linear(
+                in_features=hiddenNeurons,
+                out_features=hiddenNeurons
+            ),
+            nn.BatchNorm1d(hiddenNeurons),
+            nn.ReLU(),
+            nn.Dropout(0.7),
+            nn.Linear(
+                in_features=hiddenNeurons,
+                out_features=ansVocabSize
+            )
+        )
+
     def forward(self, X):
         X = self.embed(X)
-        _, X = self.rnn(X)
+        _, (X, _) = self.lstm(X)
         return self.net(X.squeeze(0))
 
 
@@ -81,12 +103,29 @@ vocab_size = len(vocabulary)
 unknown_index = vocabulary["<UNK>"]
 
 
+# Load answer vocabulary.
+try:
+    with open(ANS_VOCAB_PATH, "r", encoding="utf-8") as file:
+        ansVocab = json.load(file)
+
+except FileNotFoundError:
+    raise SystemExit(f"Answer vocabulary file not found: {ANS_VOCAB_PATH}")
+
+idx_to_answer = {
+    index: answer
+    for answer, index in ansVocab.items()
+}
+
+ans_vocab_size = len(ansVocab)
+
+
 # --------------------------------------------------
 # 5. Load trained model
 # --------------------------------------------------
 
 model = QuizModel(
     vocabSize=vocab_size,
+    ansVocabSize=ans_vocab_size,
     embeddingSize=EMBEDDING_SIZE,
     hiddenNeurons=HIDDEN_NEURONS
 ).to(device)
@@ -145,7 +184,7 @@ def predict_answer(question):
 
         predicted_index = logits.argmax(dim=1).item()
 
-    return idx_to_token.get(predicted_index, "<UNK>")
+    return idx_to_answer.get(predicted_index, "<UNK>")
 
 
 # --------------------------------------------------
